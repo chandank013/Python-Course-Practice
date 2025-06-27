@@ -1,0 +1,3 @@
+Python is simple
+it is easy
+every thing is an object
