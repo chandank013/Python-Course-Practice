@@ -15,21 +15,31 @@ This repository serves as both my personal learning record and a resource for ot
 ## 📝 What I Learned
 
 ✅ Python syntax and fundamentals  
-✅ Data types, variables, and operators & expressio
-✅ Conditional statements 
-✅ Control flow (while, for loops)  
+✅ Data types, variables, and operators & expression
+<br>
+✅ Conditional statements
+<br>
+✅ Control flow (while, for loops)
+<br>
 ✅ Functions and recursion
-✅ Strings & it's methods 
+<br>
+✅ Strings & it's methods
+<br>
 ✅ Formatted printting, regular expression
-✅ Data structures (lists, tuples, dictionaries, sets)  
+<br>
+✅ Data structures (lists, tuples, dictionaries, sets)
+<br>
 ✅ Object-Oriented Programming (OOP)  
 ✅ File handling  
 ✅ Exception handling   
 ✅ Working with libraries like `math`, `random`, `datetime`, and `os`  
 ✅ Functional programming concepts (map, filter, lambda)  
-✅ Database connectivity with sqlite3 
+✅ Database connectivity with sqlite3
+<br>
 ✅ Modules (Data Structure) and packages (Tkinter)
+<br>
 ✅ Numpy Array
+<br>
 ✅ Challenge problems and mini-projects  
 
 ---
