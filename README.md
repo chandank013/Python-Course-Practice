@@ -15,7 +15,8 @@ This repository serves as both my personal learning record and a resource for ot
 ## 📝 What I Learned
 
 ✅ Python syntax and fundamentals  
-✅ Data types, variables, and operators & expressio
+✅ Data types, variables, and operators & expression
+<br>
 ✅ Conditional statements 
 ✅ Control flow (while, for loops)  
 ✅ Functions and recursion
