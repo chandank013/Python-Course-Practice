@@ -2,6 +2,8 @@
 
 # Create a file:
 import sqlite3 
+
+# it is used to connect to the database,if it does not exist it will create a new one
 conn = sqlite3.connect('iiitdwd')
 
 
@@ -10,9 +12,13 @@ conn = sqlite3.connect('iiitdwd')
 import sqlite3
 
 conn = sqlite3.connect('iiitdwd.db')
+# cursor is used to execute SQL commands
 cur = conn.cursor()
 
+
+# for executing multiple query we have take triple code
 cur.execute('create table Students(roll integer primary key, name text, city text, deptno integer, foreign key(deptno) references Dept(deptno))')
+
 
 conn.commit()   # commit is important for DML queries
 cur.close()
