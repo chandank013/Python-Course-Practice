@@ -28,6 +28,7 @@ This repository serves as both my personal learning record and a resource for ot
 ✅ Formatted printting, regular expression
 <br>
 ✅ Data structures (lists, tuples, dictionaries, sets)
+<br>
 ✅ Object-Oriented Programming (OOP)  
 ✅ File handling  
 ✅ Exception handling   
